@@ -1,0 +1,10 @@
+{
+    "name":     "dom4"
+,   "version":  "0.0.1"
+,   "private":  true
+,   "license":  "MIT"
+,   "dependencies": {
+        "parse5":    "0.8.3"
+    }
+,   "main":     "index.js"
+}
